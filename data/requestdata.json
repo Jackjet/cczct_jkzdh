@@ -1,0 +1,18 @@
+{
+  "login_001":{"user_account":"15002803902","act":"password","password":"adminfkk","reg_url":"http://orp086.dev.chacha.top/"},
+  "login_003":{"act":"login","user_account":"15002803902"},
+  "login_004":{"user_account":"15002803902"},
+  "login_005":{"code":"0000"},
+  "login_006":{"code":"9238"},
+  "login_007":{"user_account":"15002803902","act":"code","password":"","reg_url":"http://orp086.dev.chacha.top/"},
+  "login_008":{"user_account":"15002803902","act":"password","password":"adminfkk","reg_url":"http://orp086.dev.chacha.top/"},
+  "query_009":{"query":"成都"},
+  "query_010":{"query_text":"成都","area":"true"},
+  "query_011":{"province_code":"510000","city_code":"510600",
+              "district_code":"510681","query_text":"广汉","text_pub_time":"","industry":"","gov_agen_first":"","gov_agen_second":"",
+              "a_s":"","debug":""},
+  "query_012":{"id":"c1779585248315b88db2","debug":"1"},
+  "query_019":{"csrf":"ea0e26f5b91974178afe09e44507499c","page_no":"2","area":"true","province_code":"","city_code":"",
+              "district_code":"","query_text":"广汉","text_pub_time":"","industry":"","gov_agen_first":"","gov_agen_second":"",
+              "a_c":""}
+}
